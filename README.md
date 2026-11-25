@@ -1,4 +1,4 @@
-# sniper-elite-wii-spec-ops-ii-green-berets-1999-1999
+# sniper-elite-wii-spec-ops-ii-green-berets-1999
 ## Sniper Elite Wii - Spec Ops II Green Berets 1999 Remake
 A remake of Spec Ops II: Green Berets using the Sniper Elite Wii engine, featuring tactical combat, precision shooting, pointer aiming and Wii motion controls.
 
